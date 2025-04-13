@@ -1,19 +1,19 @@
-[13Apr2025 12:13:46.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[13Apr2025 12:13:46.878] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[13Apr2025 12:13:46.879] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[13Apr2025 12:13:47.333] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[13Apr2025 12:13:47.462] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
-[13Apr2025 12:13:47.942] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[13Apr2025 12:13:49.114] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Apr2025 12:13:49.296] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[13Apr2025 12:13:49.305] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[13Apr2025 12:13:49.315] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.407] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.409] [main/WARN] [mixin/]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.411] [main/WARN] [mixin/]: Reference map 'Stoneworks-Forge-refmap.json' for stoneworks.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.417] [main/WARN] [mixin/]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.418] [main/WARN] [mixin/]: Reference map 'diagonalfences.forge.refmap.json' for diagonalfences.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Apr2025 12:13:49.464] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
+[13Apr2025 12:29:16.485] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[13Apr2025 12:29:16.487] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[13Apr2025 12:29:16.489] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[13Apr2025 12:29:16.850] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[13Apr2025 12:29:16.984] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[13Apr2025 12:29:17.633] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[13Apr2025 12:29:18.774] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Apr2025 12:29:18.954] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[13Apr2025 12:29:18.960] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[13Apr2025 12:29:18.971] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.075] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.078] [main/WARN] [mixin/]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.080] [main/WARN] [mixin/]: Reference map 'Stoneworks-Forge-refmap.json' for stoneworks.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.087] [main/WARN] [mixin/]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.088] [main/WARN] [mixin/]: Reference map 'diagonalfences.forge.refmap.json' for diagonalfences.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Apr2025 12:29:19.130] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
 	- additionalstructures 4.2.2
 	- backpacked 3.0.0-beta.9
 	- balm 9.0.9
@@ -55,117 +55,53 @@
 		\-- spectrelib 0.15.2+1.20.4
 	- waystones 16.0.5
 	- yungsapi 1.20.4-Forge-4.4.3
-[13Apr2025 12:13:50.293] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[13Apr2025 12:13:50.294] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[13Apr2025 12:13:50.295] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[13Apr2025 12:13:50.296] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[13Apr2025 12:13:50.296] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[13Apr2025 12:13:50.296] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[13Apr2025 12:13:50.297] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[13Apr2025 12:13:50.297] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[13Apr2025 12:13:50.369] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[13Apr2025 12:13:50.680] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
-[13Apr2025 12:13:50.776] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[13Apr2025 12:13:54.457] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zdc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[13Apr2025 12:13:56.031] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[13Apr2025 12:13:56.080] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
-[13Apr2025 12:13:56.096] [modloading-worker-0/WARN] [Forge Config API Port/]: Configuration file /workspaces/SERVBER1.20.4/servidor_minecraft/config/easyanvils-common.toml is not correct. Correcting
-[13Apr2025 12:13:56.098] [modloading-worker-0/WARN] [Forge Config API Port/]: Incorrect key name_tag_crafting_recipe was corrected from null to its default, false. 
-[13Apr2025 12:13:56.102] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
-[13Apr2025 12:13:56.102] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[13Apr2025 12:13:56.102] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
-[13Apr2025 12:13:56.106] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
-[13Apr2025 12:13:56.108] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for stoneworks
-[13Apr2025 12:13:56.109] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[13Apr2025 12:13:56.109] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[13Apr2025 12:13:56.191] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
-[13Apr2025 12:13:56.449] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[13Apr2025 12:13:56.624] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
-[13Apr2025 12:13:56.625] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
-[13Apr2025 12:13:56.661] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[13Apr2025 12:13:56.744] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
-[13Apr2025 12:13:57.608] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 226ms
-[13Apr2025 12:13:57.663] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 50ms
-[13Apr2025 12:13:57.740] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 72ms
-[13Apr2025 12:14:00.884] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[13Apr2025 12:14:01.076] [main/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[13Apr2025 12:14:01.077] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
-[13Apr2025 12:14:01.080] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[13Apr2025 12:14:01.081] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVBER1.20.4/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
-[13Apr2025 12:14:01.082] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[13Apr2025 12:14:01.082] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.083] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.084] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.084] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.inventorySlotCount was corrected from null to its default, 27. 
-[13Apr2025 12:14:01.085] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.toolSlotCount was corrected from null to its default, 2. 
-[13Apr2025 12:14:01.085] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.tankCapacity was corrected from null to its default, 3000. 
-[13Apr2025 12:14:01.085] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.085] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.inventorySlotCount was corrected from null to its default, 36. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.toolSlotCount was corrected from null to its default, 3. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.tankCapacity was corrected from null to its default, 4000. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.inventorySlotCount was corrected from null to its default, 45. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.toolSlotCount was corrected from null to its default, 4. 
-[13Apr2025 12:14:01.086] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.tankCapacity was corrected from null to its default, 5000. 
-[13Apr2025 12:14:01.087] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.087] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.inventorySlotCount was corrected from null to its default, 54. 
-[13Apr2025 12:14:01.087] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.toolSlotCount was corrected from null to its default, 5. 
-[13Apr2025 12:14:01.087] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.tankCapacity was corrected from null to its default, 6000. 
-[13Apr2025 12:14:01.088] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.088] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.inventorySlotCount was corrected from null to its default, 63. 
-[13Apr2025 12:14:01.089] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.toolSlotCount was corrected from null to its default, 6. 
-[13Apr2025 12:14:01.089] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.tankCapacity was corrected from null to its default, 7000. 
-[13Apr2025 12:14:01.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableTierUpgrades was corrected from null to its default, true. 
-[13Apr2025 12:14:01.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableCraftingUpgrade was corrected from null to its default, true. 
-[13Apr2025 12:14:01.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingUpgradeByDefault was corrected from null to its default, false. 
-[13Apr2025 12:14:01.090] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingSavesItems was corrected from null to its default, true. 
-[13Apr2025 12:14:01.091] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackBlockWearable was corrected from null to its default, true. 
-[13Apr2025 12:14:01.091] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackRightClickUnequip was corrected from null to its default, false. 
-[13Apr2025 12:14:01.091] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowOnlyEquippedBackpack was corrected from null to its default, false. 
-[13Apr2025 12:14:01.092] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
-[13Apr2025 12:14:01.092] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptSwords was corrected from null to its default, true. 
-[13Apr2025 12:14:01.092] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptEverything was corrected from null to its default, false. 
-[13Apr2025 12:14:01.092] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
-[13Apr2025 12:14:01.093] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.blacklistedItems was corrected from null to its default, []. 
-[13Apr2025 12:14:01.093] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
-[13Apr2025 12:14:01.093] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.voidProtection was corrected from null to its default, true. 
-[13Apr2025 12:14:01.093] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.curiosIntegration was corrected from null to its default, false. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableLoot was corrected from null to its default, true. 
-[13Apr2025 12:14:01.094] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
-[13Apr2025 12:14:01.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
-[13Apr2025 12:14:01.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
-[13Apr2025 12:14:01.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnChance was corrected from null to its default, 500. 
-[13Apr2025 12:14:01.095] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
-[13Apr2025 12:14:01.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
-[13Apr2025 12:14:01.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableVillagerTrade was corrected from null to its default, true. 
-[13Apr2025 12:14:01.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
-[13Apr2025 12:14:01.096] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.forceAbilityEnabled was corrected from null to its default, true. 
-[13Apr2025 12:14:01.098] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid]. 
-[13Apr2025 12:14:01.098] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:01.099] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
-[13Apr2025 12:14:01.099] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
-[13Apr2025 12:14:01.099] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
-[13Apr2025 12:14:01.305] [main/INFO] [journeymap/]: Initializing Packet Registries
-[13Apr2025 12:14:01.340] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[13Apr2025 12:14:01.340] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[13Apr2025 12:14:01.342] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[13Apr2025 12:14:01.342] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[13Apr2025 12:14:01.378] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[13Apr2025 12:14:01.379] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[13Apr2025 12:14:01.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[13Apr2025 12:14:01.517] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[13Apr2025 12:14:01.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 20.4.6 Target: null
-[13Apr2025 12:14:01.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[13Apr2025 12:14:01.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: OUTDATED Current: 1.1.2 Target: 1.2.0
-[13Apr2025 12:14:01.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
-[13Apr2025 12:14:01.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
-[13Apr2025 12:14:01.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/forge/goblintraders
-[13Apr2025 12:14:02.032] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Apr2025 12:29:20.020] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[13Apr2025 12:29:20.021] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[13Apr2025 12:29:20.021] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[13Apr2025 12:29:20.023] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[13Apr2025 12:29:20.023] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[13Apr2025 12:29:20.024] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[13Apr2025 12:29:20.025] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[13Apr2025 12:29:20.025] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[13Apr2025 12:29:20.101] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13Apr2025 12:29:20.435] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[13Apr2025 12:29:20.512] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[13Apr2025 12:29:24.863] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zdc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[13Apr2025 12:29:26.344] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[13Apr2025 12:29:26.380] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
+[13Apr2025 12:29:26.420] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for easyanvils
+[13Apr2025 12:29:26.422] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
+[13Apr2025 12:29:26.423] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
+[13Apr2025 12:29:26.436] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for stoneworks
+[13Apr2025 12:29:26.486] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[13Apr2025 12:29:26.847] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[13Apr2025 12:29:26.965] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[13Apr2025 12:29:26.966] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[13Apr2025 12:29:26.989] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[13Apr2025 12:29:27.064] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
+[13Apr2025 12:29:27.999] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 237ms
+[13Apr2025 12:29:28.056] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 54ms
+[13Apr2025 12:29:28.157] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 95ms
+[13Apr2025 12:29:31.017] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[13Apr2025 12:29:31.271] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
+[13Apr2025 12:29:31.272] [main/INFO] [Puzzles Lib/]: Loading common config for easyanvils
+[13Apr2025 12:29:31.273] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
+[13Apr2025 12:29:31.428] [main/INFO] [journeymap/]: Initializing Packet Registries
+[13Apr2025 12:29:31.478] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[13Apr2025 12:29:31.478] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[13Apr2025 12:29:31.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[13Apr2025 12:29:31.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[13Apr2025 12:29:31.551] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[13Apr2025 12:29:31.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[13Apr2025 12:29:31.636] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[13Apr2025 12:29:31.636] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[13Apr2025 12:29:31.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 20.4.6 Target: null
+[13Apr2025 12:29:31.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[13Apr2025 12:29:31.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: OUTDATED Current: 1.1.2 Target: 1.2.0
+[13Apr2025 12:29:31.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[13Apr2025 12:29:32.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
+[13Apr2025 12:29:32.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/forge/goblintraders
+[13Apr2025 12:29:32.161] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -180,18 +116,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[13Apr2025 12:14:02.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
-[13Apr2025 12:14:02.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 20.4.0 Target: null
-[13Apr2025 12:14:02.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[13Apr2025 12:14:02.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.0 Target: null
-[13Apr2025 12:14:02.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[13Apr2025 12:14:02.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
-[13Apr2025 12:14:02.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
-[13Apr2025 12:14:02.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 20.4.1 Target: null
-[13Apr2025 12:14:02.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[13Apr2025 12:14:02.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[13Apr2025 12:14:02.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[13Apr2025 12:14:02.445] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Apr2025 12:29:32.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
+[13Apr2025 12:29:32.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 20.4.0 Target: null
+[13Apr2025 12:29:32.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[13Apr2025 12:29:32.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.0 Target: null
+[13Apr2025 12:29:32.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[13Apr2025 12:29:32.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
+[13Apr2025 12:29:32.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[13Apr2025 12:29:32.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 20.4.1 Target: null
+[13Apr2025 12:29:32.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[13Apr2025 12:29:32.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[13Apr2025 12:29:32.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[13Apr2025 12:29:32.689] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -206,12 +142,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[13Apr2025 12:14:02.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[13Apr2025 12:14:02.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[13Apr2025 12:14:02.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[13Apr2025 12:14:02.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[13Apr2025 12:14:02.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[13Apr2025 12:14:02.473] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Apr2025 12:29:32.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[13Apr2025 12:29:32.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[13Apr2025 12:29:32.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[13Apr2025 12:29:32.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[13Apr2025 12:29:32.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[13Apr2025 12:29:32.852] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -226,10 +162,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[13Apr2025 12:14:02.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[13Apr2025 12:14:02.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
-[13Apr2025 12:14:02.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[13Apr2025 12:14:02.490] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[13Apr2025 12:29:32.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[13Apr2025 12:29:32.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
+[13Apr2025 12:29:32.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[13Apr2025 12:29:32.872] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -244,250 +180,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[13Apr2025 12:14:02.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Apr2025 12:14:02.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
-[13Apr2025 12:14:02.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
-[13Apr2025 12:14:02.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 20.4.3 Target: null
-[13Apr2025 12:14:02.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[13Apr2025 12:14:02.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[13Apr2025 12:14:07.031] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13Apr2025 12:14:07.461] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: easyanvils:minecraft/anvil Expected: 1058 Got: 3002
-[13Apr2025 12:14:07.462] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: easyanvils:minecraft/chipped_anvil Expected: 1059 Got: 3003
-[13Apr2025 12:14:07.463] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: easyanvils:minecraft/damaged_anvil Expected: 1060 Got: 3004
-[13Apr2025 12:14:07.464] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 1931 Got: 3005
-[13Apr2025 12:14:07.464] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 1932 Got: 3006
-[13Apr2025 12:14:07.464] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 1933 Got: 3007
-[13Apr2025 12:14:07.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 1934 Got: 3008
-[13Apr2025 12:14:07.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 1935 Got: 3009
-[13Apr2025 12:14:07.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 1936 Got: 3010
-[13Apr2025 12:14:07.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 1937 Got: 3011
-[13Apr2025 12:14:07.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 1938 Got: 3012
-[13Apr2025 12:14:07.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 1939 Got: 3013
-[13Apr2025 12:14:07.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 1940 Got: 3014
-[13Apr2025 12:14:07.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 1941 Got: 3015
-[13Apr2025 12:14:07.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 1942 Got: 3016
-[13Apr2025 12:14:07.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 1943 Got: 3017
-[13Apr2025 12:14:07.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 1944 Got: 3018
-[13Apr2025 12:14:07.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 1945 Got: 3019
-[13Apr2025 12:14:07.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 1946 Got: 3020
-[13Apr2025 12:14:07.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 1947 Got: 3021
-[13Apr2025 12:14:07.470] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 1948 Got: 3022
-[13Apr2025 12:14:07.470] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 1949 Got: 3023
-[13Apr2025 12:14:07.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 1950 Got: 3024
-[13Apr2025 12:14:07.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 1951 Got: 3025
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 1952 Got: 3026
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 1953 Got: 3027
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 1954 Got: 3028
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 1955 Got: 3029
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 1956 Got: 3030
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 1957 Got: 3031
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 1958 Got: 3032
-[13Apr2025 12:14:07.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 1959 Got: 3033
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 1960 Got: 3034
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 1961 Got: 3035
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 1962 Got: 3036
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 1963 Got: 3037
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 1964 Got: 3038
-[13Apr2025 12:14:07.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 1965 Got: 3039
-[13Apr2025 12:14:07.476] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 1966 Got: 3040
-[13Apr2025 12:14:07.476] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 1967 Got: 3041
-[13Apr2025 12:14:07.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 1968 Got: 3042
-[13Apr2025 12:14:07.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 1969 Got: 3043
-[13Apr2025 12:14:07.478] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 1970 Got: 3044
-[13Apr2025 12:14:07.478] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 1971 Got: 3045
-[13Apr2025 12:14:07.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 1972 Got: 3046
-[13Apr2025 12:14:07.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 1973 Got: 3047
-[13Apr2025 12:14:07.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 1974 Got: 3048
-[13Apr2025 12:14:07.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 1975 Got: 3049
-[13Apr2025 12:14:07.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 1976 Got: 3050
-[13Apr2025 12:14:07.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 1977 Got: 3051
-[13Apr2025 12:14:07.482] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 1978 Got: 3052
-[13Apr2025 12:14:07.482] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 1979 Got: 3053
-[13Apr2025 12:14:07.483] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 1980 Got: 3054
-[13Apr2025 12:14:07.484] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 1981 Got: 3055
-[13Apr2025 12:14:07.484] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 1982 Got: 3056
-[13Apr2025 12:14:07.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 1983 Got: 3057
-[13Apr2025 12:14:07.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 1984 Got: 3058
-[13Apr2025 12:14:07.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 1985 Got: 3059
-[13Apr2025 12:14:07.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 1986 Got: 3060
-[13Apr2025 12:14:07.487] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 1987 Got: 3061
-[13Apr2025 12:14:07.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 1988 Got: 3062
-[13Apr2025 12:14:07.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 1989 Got: 3063
-[13Apr2025 12:14:07.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: travelersbackpack:potion_fluid Expected: 5 Got: 7
-[13Apr2025 12:14:07.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: travelersbackpack:potion_flowing Expected: 6 Got: 8
-[13Apr2025 12:14:07.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:basicbackpack Expected: 1462 Got: 3174
-[13Apr2025 12:14:07.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:ironbackpack Expected: 1463 Got: 3175
-[13Apr2025 12:14:07.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:copperbackpack Expected: 1464 Got: 3176
-[13Apr2025 12:14:07.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:silverbackpack Expected: 1465 Got: 3177
-[13Apr2025 12:14:07.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:goldbackpack Expected: 1466 Got: 3178
-[13Apr2025 12:14:07.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:diamondbackpack Expected: 1467 Got: 3179
-[13Apr2025 12:14:07.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: packedup:obsidianbackpack Expected: 1468 Got: 3180
-[13Apr2025 12:14:07.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 2083 Got: 3181
-[13Apr2025 12:14:07.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 2084 Got: 3182
-[13Apr2025 12:14:07.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 2085 Got: 3183
-[13Apr2025 12:14:07.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 2086 Got: 3184
-[13Apr2025 12:14:07.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 2087 Got: 3185
-[13Apr2025 12:14:07.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 2088 Got: 3186
-[13Apr2025 12:14:07.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 2089 Got: 3187
-[13Apr2025 12:14:07.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 2090 Got: 3188
-[13Apr2025 12:14:07.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 2091 Got: 3189
-[13Apr2025 12:14:07.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 2092 Got: 3190
-[13Apr2025 12:14:07.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 2093 Got: 3191
-[13Apr2025 12:14:07.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 2094 Got: 3192
-[13Apr2025 12:14:07.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 2095 Got: 3193
-[13Apr2025 12:14:07.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 2096 Got: 3194
-[13Apr2025 12:14:07.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 2097 Got: 3195
-[13Apr2025 12:14:07.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 2098 Got: 3196
-[13Apr2025 12:14:07.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 2099 Got: 3197
-[13Apr2025 12:14:07.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 2100 Got: 3198
-[13Apr2025 12:14:07.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 2101 Got: 3199
-[13Apr2025 12:14:07.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 2102 Got: 3200
-[13Apr2025 12:14:07.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 2103 Got: 3201
-[13Apr2025 12:14:07.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 2104 Got: 3202
-[13Apr2025 12:14:07.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 2105 Got: 3203
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 2106 Got: 3204
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 2107 Got: 3205
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 2108 Got: 3206
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 2109 Got: 3207
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 2110 Got: 3208
-[13Apr2025 12:14:07.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 2111 Got: 3209
-[13Apr2025 12:14:07.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 2112 Got: 3210
-[13Apr2025 12:14:07.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 2113 Got: 3211
-[13Apr2025 12:14:07.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 2114 Got: 3212
-[13Apr2025 12:14:07.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 2115 Got: 3213
-[13Apr2025 12:14:07.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 2116 Got: 3214
-[13Apr2025 12:14:07.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 2117 Got: 3215
-[13Apr2025 12:14:07.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 2118 Got: 3216
-[13Apr2025 12:14:07.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 2119 Got: 3217
-[13Apr2025 12:14:07.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 2120 Got: 3218
-[13Apr2025 12:14:07.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 2121 Got: 3219
-[13Apr2025 12:14:07.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 2122 Got: 3220
-[13Apr2025 12:14:07.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 2123 Got: 3221
-[13Apr2025 12:14:07.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 2124 Got: 3222
-[13Apr2025 12:14:07.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 2125 Got: 3223
-[13Apr2025 12:14:07.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 2126 Got: 3224
-[13Apr2025 12:14:07.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 2127 Got: 3225
-[13Apr2025 12:14:07.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 2128 Got: 3226
-[13Apr2025 12:14:07.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 2129 Got: 3227
-[13Apr2025 12:14:07.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 2130 Got: 3228
-[13Apr2025 12:14:07.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 2131 Got: 3229
-[13Apr2025 12:14:07.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 2132 Got: 3230
-[13Apr2025 12:14:07.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 2133 Got: 3231
-[13Apr2025 12:14:07.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 2134 Got: 3232
-[13Apr2025 12:14:07.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 2135 Got: 3233
-[13Apr2025 12:14:07.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 2136 Got: 3234
-[13Apr2025 12:14:07.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 2137 Got: 3235
-[13Apr2025 12:14:07.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 2138 Got: 3236
-[13Apr2025 12:14:07.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 2139 Got: 3237
-[13Apr2025 12:14:07.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 2140 Got: 3238
-[13Apr2025 12:14:07.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 2141 Got: 3239
-[13Apr2025 12:14:07.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:backpack_tank Expected: 2142 Got: 3240
-[13Apr2025 12:14:07.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose Expected: 2143 Got: 3241
-[13Apr2025 12:14:07.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose_nozzle Expected: 2144 Got: 3242
-[13Apr2025 12:14:07.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blank_upgrade Expected: 2145 Got: 3243
-[13Apr2025 12:14:07.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_tier_upgrade Expected: 2146 Got: 3244
-[13Apr2025 12:14:07.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold_tier_upgrade Expected: 2147 Got: 3245
-[13Apr2025 12:14:07.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond_tier_upgrade Expected: 2148 Got: 3246
-[13Apr2025 12:14:07.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite_tier_upgrade Expected: 2149 Got: 3247
-[13Apr2025 12:14:07.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:crafting_upgrade Expected: 2150 Got: 3248
-[13Apr2025 12:14:11.797] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[13Apr2025 12:14:14.565] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[13Apr2025 12:14:15.000] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 3224 advancements
-[13Apr2025 12:14:15.011] [main/INFO] [Curios API/]: Loaded 10 curio slots
-[13Apr2025 12:14:15.017] [main/INFO] [Curios API/]: Loaded 1 curio entities
-[13Apr2025 12:14:19.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
-[13Apr2025 12:14:19.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Apr2025 12:14:19.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Apr2025 12:14:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Apr2025 12:14:19.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Apr2025 12:14:19.545] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Apr2025 12:14:19.594] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Apr2025 12:14:19.594] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Apr2025 12:14:19.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Apr2025 12:14:19.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Apr2025 12:14:19.608] [Server thread/WARN] [Forge Config API Port/]: Configuration file /workspaces/SERVBER1.20.4/servidor_minecraft/config/easyanvils-server.toml is not correct. Correcting
-[13Apr2025 12:14:19.608] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:19.609] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.rare_enchantment_multiplier was corrected from null to its default, 4. 
-[13Apr2025 12:14:19.609] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.repair_with_material_restored_durability was corrected from null to its default, 0.25. 
-[13Apr2025 12:14:19.609] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.repair_with_other_item_cost was corrected from null to its default, 2. 
-[13Apr2025 12:14:19.610] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.free_renames was corrected from null to its default, ALL_ITEMS. 
-[13Apr2025 12:14:19.610] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.common_enchantment_multiplier was corrected from null to its default, 1. 
-[13Apr2025 12:14:19.610] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.too_expensive_limit was corrected from null to its default, -1. 
-[13Apr2025 12:14:19.611] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.repair_with_other_item_bonus_durability was corrected from null to its default, 0.12. 
-[13Apr2025 12:14:19.612] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.very_rare_enchantment_multiplier was corrected from null to its default, 8. 
-[13Apr2025 12:14:19.612] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.uncommon_enchantment_multiplier was corrected from null to its default, 2. 
-[13Apr2025 12:14:19.612] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.halved_book_costs was corrected from null to its default, true. 
-[13Apr2025 12:14:19.612] [Server thread/WARN] [Forge Config API Port/]: Incorrect key costs.repair_with_material_unit_cost was corrected from null to its default, 1. 
-[13Apr2025 12:14:19.613] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:19.614] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty.rename_and_repair_costs was corrected from null to its default, FIXED. 
-[13Apr2025 12:14:19.614] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty.prior_work_penalty was corrected from null to its default, LIMITED. 
-[13Apr2025 12:14:19.615] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty.penalty_free_enchants_for_books was corrected from null to its default, true. 
-[13Apr2025 12:14:19.615] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty.maximum_prior_work_penalty_increase was corrected from null to its default, 4. 
-[13Apr2025 12:14:19.615] [Server thread/WARN] [Forge Config API Port/]: Incorrect key prior_work_penalty.penalty_free_renames_and_repairs was corrected from null to its default, true. 
-[13Apr2025 12:14:19.616] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous was corrected from null to its default, SimpleCommentedConfig:{}. 
-[13Apr2025 12:14:19.616] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.anvil_break_chance was corrected from null to its default, 0.05. 
-[13Apr2025 12:14:19.616] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.risk_free_anvil_renaming was corrected from null to its default, true. 
-[13Apr2025 12:14:19.618] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.edit_name_tags_no_anvil was corrected from null to its default, true. 
-[13Apr2025 12:14:19.618] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.renaming_supports_formatting was corrected from null to its default, true. 
-[13Apr2025 12:14:19.619] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.anvil_repairing was corrected from null to its default, true. 
-[13Apr2025 12:14:19.619] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.name_tags_drop_from_mobs was corrected from null to its default, false. 
-[13Apr2025 12:14:19.621] [Server thread/WARN] [Forge Config API Port/]: Incorrect key miscellaneous.disable_vanilla_anvil was corrected from null to its default, true. 
-[13Apr2025 12:14:19.624] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[13Apr2025 12:14:19.625] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[13Apr2025 12:14:19.626] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[13Apr2025 12:14:19.629] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[13Apr2025 12:14:19.633] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[13Apr2025 12:14:19.633] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[13Apr2025 12:14:19.634] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[13Apr2025 12:14:19.636] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[13Apr2025 12:14:19.698] [Server thread/INFO] [Framework/]: Loading server configs...
-[13Apr2025 12:14:19.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Apr2025 12:14:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Apr2025 12:14:25.708] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.710] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.711] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:25.713] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Apr2025 12:14:26.142] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[13Apr2025 12:14:26.642] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[13Apr2025 12:14:26.797] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4156 ms
-[13Apr2025 12:14:26.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.195s)! For help, type "help"
-[13Apr2025 12:14:26.834] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Apr2025 12:15:03.571] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[13Apr2025 12:15:03.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.36.253.121:34247] logged in with entity id 201 at (118.52405855407545, 71.0, 102.65471602134886)
-[13Apr2025 12:15:03.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[13Apr2025 12:20:27.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[13Apr2025 12:20:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[13Apr2025 12:23:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Apr2025 12:23:29.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Apr2025 12:23:29.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Apr2025 12:23:29.824] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-com.sun.jna.LastErrorException: [5] Input/output error
-	at com.sun.jna.Native.invokeVoid(Native Method) ~[jna-5.13.0.jar!/:5.13.0 (b0)]
-	at com.sun.jna.Function.invoke(Function.java:415) ~[jna-5.13.0.jar!/:5.13.0 (b0)]
-	at com.sun.jna.Function.invoke(Function.java:361) ~[jna-5.13.0.jar!/:5.13.0 (b0)]
-	at com.sun.jna.Library$Handler.invoke(Library.java:270) ~[jna-5.13.0.jar!/:5.13.0 (b0)]
-	at jdk.proxy2.$Proxy17.tcgetattr(Unknown Source) ~[?:?]
-	at org.jline.terminal.impl.jna.linux.LinuxNativePty.doSetAttr(LinuxNativePty.java:84) ~[jline-terminal-jna-3.12.1.jar!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.4-49.1.4-universal.jar!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[forge-1.20.4-49.1.4-server.jar!/:?]
-[13Apr2025 12:23:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13Apr2025 12:23:31.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13Apr2025 12:23:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13Apr2025 12:23:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13Apr2025 12:23:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Apr2025 12:23:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Apr2025 12:23:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13Apr2025 12:23:31.592] [Server thread/INFO] [Framework/]: Unloading server configs...
-[13Apr2025 12:23:31.594] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[13Apr2025 12:23:31.595] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
-[13Apr2025 12:23:31.595] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[13Apr2025 12:23:31.596] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[13Apr2025 12:23:31.597] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for easyanvils
-[13Apr2025 12:23:31.599] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Apr2025 12:29:32.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Apr2025 12:29:33.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
+[13Apr2025 12:29:33.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
+[13Apr2025 12:29:33.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 20.4.3 Target: null
+[13Apr2025 12:29:33.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[13Apr2025 12:29:33.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[13Apr2025 12:29:37.571] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13Apr2025 12:29:42.302] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[13Apr2025 12:29:45.035] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[13Apr2025 12:29:45.555] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 3224 advancements
+[13Apr2025 12:29:45.565] [main/INFO] [Curios API/]: Loaded 10 curio slots
+[13Apr2025 12:29:45.571] [main/INFO] [Curios API/]: Loaded 1 curio entities
+[13Apr2025 12:29:50.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[13Apr2025 12:29:50.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Apr2025 12:29:50.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Apr2025 12:29:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Apr2025 12:29:50.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Apr2025 12:29:50.559] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Apr2025 12:29:50.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Apr2025 12:29:50.610] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Apr2025 12:29:50.610] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Apr2025 12:29:50.610] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Apr2025 12:29:50.624] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[13Apr2025 12:29:50.626] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[13Apr2025 12:29:50.629] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Apr2025 12:29:50.636] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[13Apr2025 12:29:50.638] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Apr2025 12:29:50.683] [Server thread/INFO] [Framework/]: Loading server configs...
+[13Apr2025 12:29:50.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Apr2025 12:29:54.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Apr2025 12:29:57.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.439] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.443] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.446] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.447] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.448] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Apr2025 12:29:57.815] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[13Apr2025 12:29:58.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[13Apr2025 12:29:58.739] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3924 ms
+[13Apr2025 12:29:58.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.120s)! For help, type "help"
+[13Apr2025 12:29:58.766] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Apr2025 12:31:09.195] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13Apr2025 12:31:09.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.36.253.121:56103] logged in with entity id 207 at (107.146285120355, 65.0, 98.73765942305721)
+[13Apr2025 12:31:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
+[13Apr2025 12:31:23.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
+[13Apr2025 12:31:41.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
+[13Apr2025 12:31:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set own game mode to Creative Mode]
