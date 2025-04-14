@@ -1,64 +1,289 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744621919041 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744623430320 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621922264 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623433464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621925685 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623436620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621929686 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623439792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621932969 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623444214 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621936916 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623447450 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621940233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623450944 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621943371 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623454274 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621946961 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623457416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621951591 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623461988 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621955122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623465128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621958506 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623468275 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744621961973 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744623472069 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623475372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623478681 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623481816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623485102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623488662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623492091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623495254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623499874 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623503980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623507550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623510862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623514278 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623517591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623522097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623525259 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623528388 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623531601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623534756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623537905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623541648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623544778 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623547911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623551584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623554970 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623558132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623561263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623564526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623567692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623571088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623574759 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623577997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623581204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623584346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623587487 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623590617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623594026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623599242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623602575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623605816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623609521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623612922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623617177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623620620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623623988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paul-gathered.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744623627142 tunnel running, 1 tunnels registered
 
 
 TUNNELS
