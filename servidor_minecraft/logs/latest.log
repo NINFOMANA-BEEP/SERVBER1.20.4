@@ -236,3 +236,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Apr2025 13:11:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Survival Mode]
 [14Apr2025 13:11:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Cave Spider
 [14Apr2025 13:28:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Isn't It Iron Pick]
+[14Apr2025 13:30:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
