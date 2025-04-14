@@ -270,3 +270,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Apr2025 12:31:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
 [14Apr2025 12:33:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: sabrina es la mejor
 [14Apr2025 12:33:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: chiii
+[14Apr2025 12:41:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Acquire Hardware]
+[14Apr2025 12:46:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
+[14Apr2025 12:48:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Dirt] to Ich1goM1rukuu
+[14Apr2025 12:48:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: nadaaa mua
+[14Apr2025 12:49:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Quite the Renovation]
