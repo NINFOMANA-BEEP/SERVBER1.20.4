@@ -245,3 +245,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Apr2025 12:08:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
 [14Apr2025 12:08:34.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
 [14Apr2025 12:09:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
+[14Apr2025 12:10:22.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[14Apr2025 12:10:22.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[14Apr2025 12:10:50.684] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d24da9f[id=c5ed7fb1-b56d-3780-a140-29be33768a49,name=darkblader69,properties={}] lost connection: Disconnected
+[14Apr2025 12:10:53.982] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ea02134[id=c5ed7fb1-b56d-3780-a140-29be33768a49,name=darkblader69,properties={}] lost connection: Disconnected
+[14Apr2025 12:13:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
+[14Apr2025 12:14:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Apr2025 12:14:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HLA<--[HERE]
+[14Apr2025 12:14:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: te amo
+[14Apr2025 12:14:44.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: muaaa ♥
+[14Apr2025 12:15:07.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Monster Hunter]
+[14Apr2025 12:15:14.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: siiiii
+[14Apr2025 12:15:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: una puerca spinn
+[14Apr2025 12:15:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: ♥♥♥♥♥
+[14Apr2025 12:16:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: no me leas que no soy una revista
+[14Apr2025 12:16:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
+[14Apr2025 12:16:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: ayudaaaaa ame ahogooooo llueve mucho
+[14Apr2025 12:19:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
+[14Apr2025 12:20:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
+[14Apr2025 12:21:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
+[14Apr2025 12:22:17.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
+[14Apr2025 12:22:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
+[14Apr2025 12:29:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was blown up by Creeper
