@@ -3117,3 +3117,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Apr2025 12:27:56.485] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=841, y=67, z=820}) doesn't have enough leaves around top most log
 [14Apr2025 12:28:00.085] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=841, y=68, z=820}) doesn't have enough leaves around top most log
 [14Apr2025 12:29:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was blown up by Creeper
+[14Apr2025 12:30:45.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:30:45.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 12:31:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
+[14Apr2025 12:33:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: sabrina es la mejor
+[14Apr2025 12:33:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: chiii
+[14Apr2025 12:35:45.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 12:35:45.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
