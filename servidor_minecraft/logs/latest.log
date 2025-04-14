@@ -1,20 +1,20 @@
-[14Apr2025 11:59:54.062] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[14Apr2025 11:59:54.064] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[14Apr2025 11:59:54.066] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[14Apr2025 11:59:55.026] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[14Apr2025 11:59:55.141] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
-[14Apr2025 11:59:55.777] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[14Apr2025 11:59:57.035] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Apr2025 11:59:57.228] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[14Apr2025 11:59:57.237] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[14Apr2025 11:59:57.252] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.348] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.351] [main/WARN] [mixin/]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.352] [main/WARN] [mixin/]: Reference map 'Stoneworks-Forge-refmap.json' for stoneworks.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.357] [main/WARN] [mixin/]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.358] [main/WARN] [mixin/]: Reference map 'diagonalfences.forge.refmap.json' for diagonalfences.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.375] [main/WARN] [mixin/]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 11:59:57.400] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
+[14Apr2025 13:09:11.295] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[14Apr2025 13:09:11.298] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[14Apr2025 13:09:11.299] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[14Apr2025 13:09:11.685] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[14Apr2025 13:09:11.817] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[14Apr2025 13:09:12.456] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[14Apr2025 13:09:13.604] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Apr2025 13:09:13.944] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[14Apr2025 13:09:13.951] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[14Apr2025 13:09:13.962] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.042] [main/WARN] [mixin/]: Reference map 'ForgeConfigAPIPort-Forge-refmap.json' for forgeconfigapiport.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.047] [main/WARN] [mixin/]: Reference map 'Stoneworks-Common-refmap.json' for stoneworks.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.050] [main/WARN] [mixin/]: Reference map 'Stoneworks-Forge-refmap.json' for stoneworks.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.055] [main/WARN] [mixin/]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.056] [main/WARN] [mixin/]: Reference map 'diagonalfences.forge.refmap.json' for diagonalfences.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.073] [main/WARN] [mixin/]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 13:09:14.138] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
 	- additionalstructures 4.2.2
 	- architectury 11.1.17
 	- backpacked 3.0.0-beta.9
@@ -58,55 +58,55 @@
 		\-- spectrelib 0.15.2+1.20.4
 	- waystones 16.0.5
 	- yungsapi 1.20.4-Forge-4.4.3
-[14Apr2025 11:59:58.488] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[14Apr2025 11:59:58.489] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[14Apr2025 11:59:58.489] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[14Apr2025 11:59:58.490] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[14Apr2025 11:59:58.491] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[14Apr2025 11:59:58.491] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[14Apr2025 11:59:58.492] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[14Apr2025 11:59:58.492] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[14Apr2025 11:59:58.802] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[14Apr2025 11:59:59.339] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
-[14Apr2025 11:59:59.433] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[14Apr2025 12:00:04.909] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zdi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[14Apr2025 12:00:06.755] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[14Apr2025 12:00:06.808] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
-[14Apr2025 12:00:06.850] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[14Apr2025 12:00:06.881] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for stoneworks
-[14Apr2025 12:00:06.882] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[14Apr2025 12:00:06.989] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
-[14Apr2025 12:00:07.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14Apr2025 12:00:07.371] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[14Apr2025 12:00:07.469] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
-[14Apr2025 12:00:07.474] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
-[14Apr2025 12:00:07.531] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[14Apr2025 12:00:07.585] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
-[14Apr2025 12:00:08.755] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 405ms
-[14Apr2025 12:00:08.908] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 150ms
-[14Apr2025 12:00:09.048] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 133ms
-[14Apr2025 12:00:12.788] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[14Apr2025 12:00:13.027] [main/INFO] [Puzzles Lib/]: Loading common config for easyanvils
-[14Apr2025 12:00:13.028] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
-[14Apr2025 12:00:13.029] [Thread-1/WARN] [fuzs.puzzleslib.forge.impl.config.core.ForgeConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/SERVBER1.20.4/servidor_minecraft/config/stoneworks-common.toml is not correct. Correcting
-[14Apr2025 12:00:13.042] [Thread-1/WARN] [Forge Config API Port/]: Incorrect key vanilla_variants_in_creative_tab was corrected from null to its default, true. 
-[14Apr2025 12:00:13.044] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
-[14Apr2025 12:00:13.224] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Apr2025 12:00:13.259] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[14Apr2025 12:00:13.259] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[14Apr2025 12:00:13.261] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[14Apr2025 12:00:13.261] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[14Apr2025 12:00:13.338] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[14Apr2025 12:00:13.339] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[14Apr2025 12:00:13.448] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[14Apr2025 12:00:13.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[14Apr2025 12:00:14.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 20.4.6 Target: null
-[14Apr2025 12:00:14.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[14Apr2025 12:00:14.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: OUTDATED Current: 1.1.2 Target: 1.2.0
-[14Apr2025 12:00:14.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
-[14Apr2025 12:00:14.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
-[14Apr2025 12:00:14.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/forge/goblintraders
-[14Apr2025 12:00:14.690] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Apr2025 13:09:15.071] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[14Apr2025 13:09:15.072] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[14Apr2025 13:09:15.072] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[14Apr2025 13:09:15.074] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[14Apr2025 13:09:15.074] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[14Apr2025 13:09:15.075] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[14Apr2025 13:09:15.076] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[14Apr2025 13:09:15.076] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[14Apr2025 13:09:15.141] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[14Apr2025 13:09:15.488] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[14Apr2025 13:09:15.577] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/SERVBER1.20.4/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[14Apr2025 13:09:19.845] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zdi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14Apr2025 13:09:21.322] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[14Apr2025 13:09:21.360] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
+[14Apr2025 13:09:21.416] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for easyanvils
+[14Apr2025 13:09:21.419] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
+[14Apr2025 13:09:21.420] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for easyanvils
+[14Apr2025 13:09:21.436] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading common config for stoneworks
+[14Apr2025 13:09:21.438] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
+[14Apr2025 13:09:21.440] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for stoneworks
+[14Apr2025 13:09:21.496] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[14Apr2025 13:09:21.962] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[14Apr2025 13:09:21.965] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Apr2025 13:09:22.206] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[14Apr2025 13:09:22.208] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[14Apr2025 13:09:22.284] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[14Apr2025 13:09:22.289] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalblocks:main
+[14Apr2025 13:09:23.202] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 212ms
+[14Apr2025 13:09:23.245] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 40ms
+[14Apr2025 13:09:23.339] [main/INFO] [Diagonal Blocks/]: Constructing shapes for ForgeDiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 87ms
+[14Apr2025 13:09:26.321] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[14Apr2025 13:09:26.573] [main/INFO] [Puzzles Lib/]: Loading common config for easyanvils
+[14Apr2025 13:09:26.574] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
+[14Apr2025 13:09:26.753] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14Apr2025 13:09:26.801] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[14Apr2025 13:09:26.801] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[14Apr2025 13:09:26.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[14Apr2025 13:09:26.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[14Apr2025 13:09:26.834] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[14Apr2025 13:09:26.835] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[14Apr2025 13:09:26.939] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[14Apr2025 13:09:27.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[14Apr2025 13:09:27.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 20.4.6 Target: null
+[14Apr2025 13:09:27.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[14Apr2025 13:09:27.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: OUTDATED Current: 1.1.2 Target: 1.2.0
+[14Apr2025 13:09:27.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[14Apr2025 13:09:27.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeconfigapiport] Found status: UP_TO_DATE Current: 20.4.3 Target: null
+[14Apr2025 13:09:27.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/forge/goblintraders
+[14Apr2025 13:09:27.557] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -121,18 +121,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[14Apr2025 12:00:14.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
-[14Apr2025 12:00:14.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 20.4.0 Target: null
-[14Apr2025 12:00:14.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Apr2025 12:00:15.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.0 Target: null
-[14Apr2025 12:00:15.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[14Apr2025 12:00:15.082] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
-[14Apr2025 12:00:15.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
-[14Apr2025 12:00:15.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 20.4.1 Target: null
-[14Apr2025 12:00:15.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[14Apr2025 12:00:15.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[14Apr2025 12:00:15.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[14Apr2025 12:00:15.142] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Apr2025 13:09:27.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
+[14Apr2025 13:09:27.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 20.4.0 Target: null
+[14Apr2025 13:09:27.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14Apr2025 13:09:27.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.0 Target: null
+[14Apr2025 13:09:27.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[14Apr2025 13:09:28.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.4.3 Target: null
+[14Apr2025 13:09:28.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[14Apr2025 13:09:28.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 20.4.1 Target: null
+[14Apr2025 13:09:28.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[14Apr2025 13:09:28.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[14Apr2025 13:09:28.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[14Apr2025 13:09:28.043] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -147,12 +147,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[14Apr2025 12:00:15.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[14Apr2025 12:00:15.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[14Apr2025 12:00:15.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
-[14Apr2025 12:00:15.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
-[14Apr2025 12:00:15.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[14Apr2025 12:00:15.265] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Apr2025 13:09:28.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[14Apr2025 13:09:28.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[14Apr2025 13:09:28.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[14Apr2025 13:09:28.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.2.2 Target: null
+[14Apr2025 13:09:28.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[14Apr2025 13:09:28.071] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -167,10 +167,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[14Apr2025 12:00:15.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[14Apr2025 12:00:15.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
-[14Apr2025 12:00:15.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14Apr2025 12:00:15.286] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Apr2025 13:09:28.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[14Apr2025 13:09:28.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 20.4.52 Target: null
+[14Apr2025 13:09:28.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14Apr2025 13:09:28.089] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar!/:?]
@@ -185,94 +185,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar!/:?]
 	... 6 more
-[14Apr2025 12:00:15.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Apr2025 12:00:20.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
-[14Apr2025 12:00:20.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
-[14Apr2025 12:00:20.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 20.4.3 Target: null
-[14Apr2025 12:00:20.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[14Apr2025 12:00:20.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[14Apr2025 12:00:20.605] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14Apr2025 12:00:26.152] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
-[14Apr2025 12:00:30.100] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[14Apr2025 12:00:30.501] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 3253 advancements
-[14Apr2025 12:00:30.513] [main/INFO] [Curios API/]: Loaded 10 curio slots
-[14Apr2025 12:00:30.519] [main/INFO] [Curios API/]: Loaded 1 curio entities
-[14Apr2025 12:00:35.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
-[14Apr2025 12:00:35.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Apr2025 12:00:35.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Apr2025 12:00:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Apr2025 12:00:35.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Apr2025 12:00:36.000] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Apr2025 12:00:36.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Apr2025 12:00:36.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Apr2025 12:00:36.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Apr2025 12:00:36.066] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Apr2025 12:00:36.089] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[14Apr2025 12:00:36.091] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[14Apr2025 12:00:36.095] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Apr2025 12:00:36.095] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[14Apr2025 12:00:36.098] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Apr2025 12:00:36.167] [Server thread/INFO] [Framework/]: Loading server configs...
-[14Apr2025 12:00:36.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Apr2025 12:00:40.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Apr2025 12:00:42.915] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:42.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:42.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:42.971] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:42.982] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:42.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:43.084] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:43.902] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:44.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:44.577] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 12:00:45.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[14Apr2025 12:00:45.577] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[14Apr2025 12:00:45.738] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5662 ms
-[14Apr2025 12:00:45.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.663s)! For help, type "help"
-[14Apr2025 12:00:45.775] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Apr2025 12:01:06.761] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[14Apr2025 12:01:06.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:60371] logged in with entity id 288 at (144.5734539765706, 66.0, -2.1747085158667767)
-[14Apr2025 12:01:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
-[14Apr2025 12:01:48.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darkblader69[/127.36.253.121:52707] logged in with entity id 578 at (-19.988898335023848, 72.0, -49.80786708032643)
-[14Apr2025 12:01:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 joined the game
-[14Apr2025 12:01:55.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:03:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:04:28.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:05:14.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:06:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:06:38.636] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1375, y=118, z=681}
-[14Apr2025 12:08:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Gamerule keepInventory is now set to: true]
-[14Apr2025 12:08:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
-[14Apr2025 12:08:34.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Teleported darkblader69 to Ich1goM1rukuu]
-[14Apr2025 12:09:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 was slain by Zombie
-[14Apr2025 12:10:22.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
-[14Apr2025 12:10:22.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
-[14Apr2025 12:10:50.684] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d24da9f[id=c5ed7fb1-b56d-3780-a140-29be33768a49,name=darkblader69,properties={}] lost connection: Disconnected
-[14Apr2025 12:10:53.982] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ea02134[id=c5ed7fb1-b56d-3780-a140-29be33768a49,name=darkblader69,properties={}] lost connection: Disconnected
-[14Apr2025 12:13:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
-[14Apr2025 12:14:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[14Apr2025 12:14:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HLA<--[HERE]
-[14Apr2025 12:14:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: te amo
-[14Apr2025 12:14:44.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: muaaa ♥
-[14Apr2025 12:15:07.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Monster Hunter]
-[14Apr2025 12:15:14.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: siiiii
-[14Apr2025 12:15:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: una puerca spinn
-[14Apr2025 12:15:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: ♥♥♥♥♥
-[14Apr2025 12:16:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: no me leas que no soy una revista
-[14Apr2025 12:16:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
-[14Apr2025 12:16:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: ayudaaaaa ame ahogooooo llueve mucho
-[14Apr2025 12:19:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was shot by Skeleton
-[14Apr2025 12:20:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
-[14Apr2025 12:21:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
-[14Apr2025 12:22:17.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
-[14Apr2025 12:22:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
-[14Apr2025 12:29:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was blown up by Creeper
-[14Apr2025 12:31:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Stone Age]
-[14Apr2025 12:33:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: sabrina es la mejor
-[14Apr2025 12:33:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: chiii
-[14Apr2025 12:41:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Acquire Hardware]
-[14Apr2025 12:46:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Zombie
-[14Apr2025 12:48:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Dirt] to Ich1goM1rukuu
-[14Apr2025 12:48:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Ich1goM1rukuu: nadaaa mua
-[14Apr2025 12:49:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu has made the advancement [Quite the Renovation]
-[14Apr2025 12:59:19.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu moved wrongly!
+[14Apr2025 13:09:28.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Apr2025 13:09:28.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
+[14Apr2025 13:09:28.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalblocks.json
+[14Apr2025 13:09:28.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalblocks] Found status: BETA Current: 20.4.3 Target: null
+[14Apr2025 13:09:28.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[14Apr2025 13:09:28.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[14Apr2025 13:09:32.400] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14Apr2025 13:09:37.367] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[14Apr2025 13:09:40.106] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[14Apr2025 13:09:40.498] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 3253 advancements
+[14Apr2025 13:09:40.510] [main/INFO] [Curios API/]: Loaded 10 curio slots
+[14Apr2025 13:09:40.515] [main/INFO] [Curios API/]: Loaded 1 curio entities
+[14Apr2025 13:09:44.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[14Apr2025 13:09:44.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Apr2025 13:09:44.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Apr2025 13:09:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Apr2025 13:09:44.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Apr2025 13:09:45.027] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Apr2025 13:09:45.070] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Apr2025 13:09:45.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Apr2025 13:09:45.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Apr2025 13:09:45.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Apr2025 13:09:45.087] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Apr2025 13:09:45.093] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[14Apr2025 13:09:45.095] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[14Apr2025 13:09:45.096] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[14Apr2025 13:09:45.178] [Server thread/INFO] [Framework/]: Loading server configs...
+[14Apr2025 13:09:45.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Apr2025 13:09:48.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Apr2025 13:09:51.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.149] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.155] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.270] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 13:09:52.769] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[14Apr2025 13:09:53.269] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[14Apr2025 13:09:53.445] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5177 ms
+[14Apr2025 13:09:53.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.365s)! For help, type "help"
+[14Apr2025 13:09:53.473] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Apr2025 13:10:03.534] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Apr2025 13:10:03.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ich1goM1rukuu[/127.212.133.0:41021] logged in with entity id 175 at (868.0854608689677, 44.0, 823.4937602845076)
+[14Apr2025 13:10:03.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu joined the game
+[14Apr2025 13:10:05.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[14Apr2025 13:10:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Creative Mode]
+[14Apr2025 13:11:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Survival Mode]
+[14Apr2025 13:11:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu was slain by Cave Spider
